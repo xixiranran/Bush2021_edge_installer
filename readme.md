@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-04-16 17:12:49 (UTC-4)
+2024-04-16 18:12:50 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/81d049bb-2626-492d-9bd6-e23993b3cf83?P1=1713881557&P2=404&P3=2&P4=cEMgHRSTZkOlNopexta7UNO3zJsapAHgj3ZimCQyeFrjdezPlozgydE4GubyMSeZw0i0tBDChDkx1EF%2bSX%2fqmg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/81d049bb-2626-492d-9bd6-e23993b3cf83?P1=1713881557&P2=404&P3=2&P4=cEMgHRSTZkOlNopexta7UNO3zJsapAHgj3ZimCQyeFrjdezPlozgydE4GubyMSeZw0i0tBDChDkx1EF%2bSX%2fqmg%3d%3d)  
 
 ## canary ARM64
-**最新版本**：125.0.2526.0  
-**文件大小**：161.5 MB  
-**文件名**：MicrosoftEdge_ARM64_125.0.2526.0.exe  
-**校验值（Sha256）**：7b3173987f5ff40f7f94223195255a80580904fcd987a3a5d7a1b23518a56834  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/aacb6a2f-6063-489d-acd3-fd042b9a8185?P1=1713827530&P2=404&P3=2&P4=JO%2b0ninRUfbIo%2bjuXAjz7lhGecTN94VbfbphIkbSLPThGejNWho325%2fEI5m%2b%2fZLechQfclmCc%2fe7ZC8%2bWpPxQQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/aacb6a2f-6063-489d-acd3-fd042b9a8185?P1=1713827530&P2=404&P3=2&P4=JO%2b0ninRUfbIo%2bjuXAjz7lhGecTN94VbfbphIkbSLPThGejNWho325%2fEI5m%2b%2fZLechQfclmCc%2fe7ZC8%2bWpPxQQ%3d%3d)  
+**最新版本**：125.0.2528.0  
+**文件大小**：161.59 MB  
+**文件名**：MicrosoftEdge_ARM64_125.0.2528.0.exe  
+**校验值（Sha256）**：faeb7bad917e1bac9cacffe576707782227d9039820b6042ac3b802f3f0ded80  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f4bcd2ad-ed4c-4658-a34a-e240cce3c469?P1=1713910371&P2=404&P3=2&P4=LnnURdZyNREkecOgTzT46jWqgLYrzHgSZ00C5yIHZmp5T1He5CfjQ3TPHI5IIO8pr17pL3ZNuKWSg9%2bFGIdPmQ%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f4bcd2ad-ed4c-4658-a34a-e240cce3c469?P1=1713910371&P2=404&P3=2&P4=LnnURdZyNREkecOgTzT46jWqgLYrzHgSZ00C5yIHZmp5T1He5CfjQ3TPHI5IIO8pr17pL3ZNuKWSg9%2bFGIdPmQ%3d%3d)  
 
