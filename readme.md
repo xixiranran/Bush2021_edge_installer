@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-04-18 15:10:12 (UTC-4)
+2024-04-18 16:13:41 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -47,11 +47,11 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/630083c1-24b5-4545-9b0b-0f35a727bf89?P1=1713474433&P2=404&P3=2&P4=npPfSUbaEntyXMTsg%2bLaIaH6Q3AEihDVe6QV67gysUELRvzLUs3Vql3jPPQmh%2fjECeasWZ7FYk1KNgk4%2bvNBvA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/630083c1-24b5-4545-9b0b-0f35a727bf89?P1=1713474433&P2=404&P3=2&P4=npPfSUbaEntyXMTsg%2bLaIaH6Q3AEihDVe6QV67gysUELRvzLUs3Vql3jPPQmh%2fjECeasWZ7FYk1KNgk4%2bvNBvA%3d%3d)  
 
 ## stable x86
-**最新版本**：123.0.2420.97  
-**文件大小**：148.25 MB  
-**文件名**：MicrosoftEdge_X86_123.0.2420.97.exe  
-**校验值（Sha256）**：7cc1e2a2700287e7ce32c0202bd2e792e519fc4b65b49be960f01fad8969cb99  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8ae0fff9-5fc6-4cf3-8e4f-b7c4b1989a22?P1=1713557441&P2=404&P3=2&P4=Tt7lVicsHeUWa18pirIUBDCqyjUAdB7z0Pgp6nhYCvQn0URvGwiclV1F479NHDZugRMtwZQb5XilcraHD%2bJ%2foA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8ae0fff9-5fc6-4cf3-8e4f-b7c4b1989a22?P1=1713557441&P2=404&P3=2&P4=Tt7lVicsHeUWa18pirIUBDCqyjUAdB7z0Pgp6nhYCvQn0URvGwiclV1F479NHDZugRMtwZQb5XilcraHD%2bJ%2foA%3d%3d)  
+**最新版本**：124.0.2478.51  
+**文件大小**：149.09 MB  
+**文件名**：MicrosoftEdge_X86_124.0.2478.51.exe  
+**校验值（Sha256）**：af7400e4a7ef6968aef56ed41ffe5a4381abcda87a8930102ef6d1e879e514f0  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c72378bf-b773-4976-875d-8f5846714303?P1=1714076011&P2=404&P3=2&P4=U%2fJQgpWNGsbtOBQPzc8lvT7slLsAfegoDW3a0jhLFngAUQa39uhulE0GQiz3S9mdUfrk9pi%2bfN%2fNSXheRdHAHg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c72378bf-b773-4976-875d-8f5846714303?P1=1714076011&P2=404&P3=2&P4=U%2fJQgpWNGsbtOBQPzc8lvT7slLsAfegoDW3a0jhLFngAUQa39uhulE0GQiz3S9mdUfrk9pi%2bfN%2fNSXheRdHAHg%3d%3d)  
 
 ## stable x64
 **最新版本**：124.0.2478.51  
