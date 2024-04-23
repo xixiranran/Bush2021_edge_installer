@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-04-23 13:12:20 (UTC-4)
+2024-04-23 14:15:43 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1d63f14a-5504-418e-9837-3d37815627bd?P1=1714403628&P2=404&P3=2&P4=NgTrX8xQJUhQAjdiTxhN9ElS6d6jbeuA4jJ%2b82XC9JMEklbHbvdhhVoc9SldtO6ciqcpmVmtwpIFO2XHhI41PA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1d63f14a-5504-418e-9837-3d37815627bd?P1=1714403628&P2=404&P3=2&P4=NgTrX8xQJUhQAjdiTxhN9ElS6d6jbeuA4jJ%2b82XC9JMEklbHbvdhhVoc9SldtO6ciqcpmVmtwpIFO2XHhI41PA%3d%3d)  
 
 ## canary ARM64
-**最新版本**：126.0.2540.0  
-**文件大小**：161.43 MB  
-**文件名**：MicrosoftEdge_ARM64_126.0.2540.0.exe  
-**校验值（Sha256）**：bebdeeae81471e444afb9e77dbf9b1423add2c4a20cae82241129f1d99a68533  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4d5e1156-12fc-479f-b7d3-689f7f41120f?P1=1714403630&P2=404&P3=2&P4=maZDAL199Npm43pxMLQmRL8q47gOzvxTreMyWMYAshSxaRemI1sNdeQfXVvX%2fYnsBlnTbg9JvUdoGphFqmIyGw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4d5e1156-12fc-479f-b7d3-689f7f41120f?P1=1714403630&P2=404&P3=2&P4=maZDAL199Npm43pxMLQmRL8q47gOzvxTreMyWMYAshSxaRemI1sNdeQfXVvX%2fYnsBlnTbg9JvUdoGphFqmIyGw%3d%3d)  
+**最新版本**：126.0.2542.0  
+**文件大小**：161.44 MB  
+**文件名**：MicrosoftEdge_ARM64_126.0.2542.0.exe  
+**校验值（Sha256）**：c30e6629556cbd20b22167264dd4b86d4b42885dd0608424e3ce167ed826c868  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/afe3a975-c178-4dd4-8071-d5dd9a9aef52?P1=1714500944&P2=404&P3=2&P4=Wd%2bGQuziruY8u0EvJzW1XEmUXSYzKDqggIEK%2fJumUBttNkWvDrT%2bzkO%2bFs90q2qqulp14eH04QF2mu9%2f29g2rg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/afe3a975-c178-4dd4-8071-d5dd9a9aef52?P1=1714500944&P2=404&P3=2&P4=Wd%2bGQuziruY8u0EvJzW1XEmUXSYzKDqggIEK%2fJumUBttNkWvDrT%2bzkO%2bFs90q2qqulp14eH04QF2mu9%2f29g2rg%3d%3d)  
 
