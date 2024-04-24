@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-04-24 09:19:26 (UTC-4)
+2024-04-24 10:13:24 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3362a0c5-12b6-4476-913f-b19ace9eba24?P1=1714525102&P2=404&P3=2&P4=EBxmrdLP9LIOLzumwr%2bRZzGvvFwKt2KvJvgUIHvelE29nab3Sush05Evc9JKV2oqsDcQVrKZR6pMlchvRUcVLA%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3362a0c5-12b6-4476-913f-b19ace9eba24?P1=1714525102&P2=404&P3=2&P4=EBxmrdLP9LIOLzumwr%2bRZzGvvFwKt2KvJvgUIHvelE29nab3Sush05Evc9JKV2oqsDcQVrKZR6pMlchvRUcVLA%3d%3d)  
 
 ## canary ARM64
-**最新版本**：126.0.2543.0  
-**文件大小**：161.46 MB  
-**文件名**：MicrosoftEdge_ARM64_126.0.2543.0.exe  
-**校验值（Sha256）**：029140c9bda45c15f2a065cb36d55ae6d8039aa6644da696ee3dab539c24586e  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0ed7bdfd-44c7-4e66-bdd6-7fc04cb4f673?P1=1714525102&P2=404&P3=2&P4=f9J0R8VY0Dd1ZFRZRpS4bMoL7AUQqE3OblMi9faebgVb4P8DepStWqPUN9kgpL8J%2b1QqZHnv6QihGAR%2bOfqD3w%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0ed7bdfd-44c7-4e66-bdd6-7fc04cb4f673?P1=1714525102&P2=404&P3=2&P4=f9J0R8VY0Dd1ZFRZRpS4bMoL7AUQqE3OblMi9faebgVb4P8DepStWqPUN9kgpL8J%2b1QqZHnv6QihGAR%2bOfqD3w%3d%3d)  
+**最新版本**：126.0.2544.0  
+**文件大小**：161.56 MB  
+**文件名**：MicrosoftEdge_ARM64_126.0.2544.0.exe  
+**校验值（Sha256）**：1db7ac5caeb089f38025a4e431001d1d2b9376688127a859360feb6b10782742  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/66926021-cf03-48a7-a9bd-78d3d1c64095?P1=1714572804&P2=404&P3=2&P4=k%2bNUwoiIwEIA6dyS2d0lFVc%2by5mcehlCqqrWQJdQA5stlylJXxMZEvXbB4wgrOSf6dlqoDVboaxFImkmNVQ%2fDg%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/66926021-cf03-48a7-a9bd-78d3d1c64095?P1=1714572804&P2=404&P3=2&P4=k%2bNUwoiIwEIA6dyS2d0lFVc%2by5mcehlCqqrWQJdQA5stlylJXxMZEvXbB4wgrOSf6dlqoDVboaxFImkmNVQ%2fDg%3d%3d)  
 
