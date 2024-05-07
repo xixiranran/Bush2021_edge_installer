@@ -33,7 +33,7 @@ while True:
                     download_links.append({'href': urljoin(url, href), 'text': text})
         
         # 将下载链接保存到一个JSON文件中
-        with open('centbrowser_portable_data.json', 'w') as f:
+        with open('data.json', 'w') as f:
             json.dump(download_links, f, indent=4)
         
         print("Portable download links have been updated.")
