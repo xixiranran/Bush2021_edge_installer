@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/edge_installer/releases>
 
 最后检测更新时间
-2024-05-07 09:13:35 (UTC-4)
+2024-05-07 10:11:41 (UTC-4)
 
 ## 注意
 * Microsoft 直链会过期，请及时保存。
@@ -124,9 +124,9 @@
 **下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2c614a02-3f33-4c59-af54-17abdee96899?P1=1715641979&P2=404&P3=2&P4=eHDBg5a88je0asyrc7qW8unJGZuSwwWoAeO5cQRoDMmC8iuYFesoroPtw18av5nueL8%2bN7bUsluDH3tDKPOFJw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2c614a02-3f33-4c59-af54-17abdee96899?P1=1715641979&P2=404&P3=2&P4=eHDBg5a88je0asyrc7qW8unJGZuSwwWoAeO5cQRoDMmC8iuYFesoroPtw18av5nueL8%2bN7bUsluDH3tDKPOFJw%3d%3d)  
 
 ## canary ARM64
-**最新版本**：126.0.2571.0  
-**文件大小**：166.16 MB  
-**文件名**：MicrosoftEdge_ARM64_126.0.2571.0.exe  
-**校验值（Sha256）**：e0f62455936740c9f50fd81631732a725ebdad577ddf6edaabeba98d9e9e7fc3  
-**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7a97a076-de39-417c-ab4b-633e346710e0?P1=1715641981&P2=404&P3=2&P4=JCXVlWRnEjf9hO%2bqo1n4fbedWyE99ZJy9f6bo8VJY1kasXU2P6m8VTH1XBJBOFSvJGxXeASgJOu%2bx0Re1ixNEw%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7a97a076-de39-417c-ab4b-633e346710e0?P1=1715641981&P2=404&P3=2&P4=JCXVlWRnEjf9hO%2bqo1n4fbedWyE99ZJy9f6bo8VJY1kasXU2P6m8VTH1XBJBOFSvJGxXeASgJOu%2bx0Re1ixNEw%3d%3d)  
+**最新版本**：126.0.2572.0  
+**文件大小**：166.21 MB  
+**文件名**：MicrosoftEdge_ARM64_126.0.2572.0.exe  
+**校验值（Sha256）**：40a69e5038002858f3fbdf6aa8e55d5626e5e3458a857d03a8f89c6de439eeab  
+**下载链接**：[https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4d31f640-9243-45d8-b27e-3a7d4fb1c3ee?P1=1715695902&P2=404&P3=2&P4=UEzQ431CcAAkmqPtwF34uBHph%2fEdDQOmy69kbCOy02mPg9AWH888iVT%2bNMH2LmLQGYIB9dFKmAmrq2b3VDJCww%3d%3d](https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4d31f640-9243-45d8-b27e-3a7d4fb1c3ee?P1=1715695902&P2=404&P3=2&P4=UEzQ431CcAAkmqPtwF34uBHph%2fEdDQOmy69kbCOy02mPg9AWH888iVT%2bNMH2LmLQGYIB9dFKmAmrq2b3VDJCww%3d%3d)  
 
